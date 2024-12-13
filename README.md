@@ -8,7 +8,9 @@ This repository contains a Python-based project that uses Mediapipe for hand tra
 
 - Real-time hand tracking using Mediapipe.
 - Virtual painting with customizable brush colors and thickness.
-- Gesture-based interaction for selecting tools and colors.
+- Option to erase what is drawn in the screen.
+- Can draw a circle with 3 fingers raised together according to size.
+- Gesture-based interaction is used to select tools and colors.
 - Supports saving the canvas as an image.
 
 ---
@@ -60,13 +62,7 @@ Press a predefined key (e.g., `s`) to save the canvas as an image.
 
 ---
 
-## Demonstration
 
-Here is a quick demo of the Virtual Painter application:
-
-![Demo](https://via.placeholder.com/800x400.png?text=Demo+Image+Here)
-
----
 
 ## Contributions
 
